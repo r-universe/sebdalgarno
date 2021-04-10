@@ -7,3 +7,4 @@
 	path = tinter
 	url = https://github.com/sebdalgarno/tinter
 	shallow = true
+	registered = true
